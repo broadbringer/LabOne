@@ -1,0 +1,6 @@
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\bin\Debug\LabOne.exe
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\obj\Debug\LabOne.csprojAssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\obj\Debug\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\obj\Debug\LabOne.exe
+C:\Users\Oleksandr\Desktop\Univer\Programming\LabOne\obj\Debug\LabOne.pdb
